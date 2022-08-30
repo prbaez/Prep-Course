@@ -190,6 +190,7 @@ function esPositivo(numero) {
       }else if (numero == 0) {
       return false;  
       }
+      
     }
 
 function agregarSimboloExclamacion(str) {
