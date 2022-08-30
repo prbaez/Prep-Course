@@ -190,7 +190,7 @@ function esPositivo(numero) {
       }else if (numero == 0) {
       return false;  
       }
-      
+
     }
 
 function agregarSimboloExclamacion(str) {
@@ -238,8 +238,7 @@ function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
   var perimetro = 4 * lado;
-  return perimetro;
-  
+  return perimetro;  
 }
 
 
@@ -248,7 +247,6 @@ function areaDelTriangulo(base, altura){
   //Escribe tu código aquí
   var area = (base * altura) / 2;
   return area;
-
 }
 
 
@@ -257,8 +255,7 @@ function deEuroAdolar(euro){
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
   var cambio = euro * 1.20;
-  return cambio;
-  
+  return cambio;  
 }
 
 
