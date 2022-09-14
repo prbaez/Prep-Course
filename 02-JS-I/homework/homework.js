@@ -140,6 +140,7 @@ function elevarAlCuadrado(num) {
   // Tu código:
   const cuadrado = Math.pow(num,2);
   return cuadrado;
+  
 }
 
 function elevarAlCubo(num) {
