@@ -1,0 +1,8 @@
+{
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast Light",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "window.autoDetectColorScheme": false,
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "typescript.inlayHints.enumMemberValues.enabled": false
+}
